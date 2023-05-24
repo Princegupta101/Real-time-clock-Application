@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  background-color:rgb(204, 218, 222);
+  font-family: 'Open Sans', sans-serif;
+}
+.datetime{
+box-shadow: 0 0 30px white;
+border: 1px solid white;
+border-radius: 3px;
+background-color: whitesmoke;
+padding:15px 65px;
+font-size: 45px;
+font-weight: 500;
+
+}
